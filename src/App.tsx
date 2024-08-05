@@ -6,7 +6,6 @@ import ChatGPT from './components/ChatGPT/ChatGpt';
 import Footer from './Footer/Footer';
 import Bottom from './components/Bottom/Bottom';
 import Footer2 from './components/Footer2/Footer2';
-import Stories from './components/Stories/Stories';
 
 
 function App() {
@@ -19,7 +18,6 @@ function App() {
       <Header />
       <Home />
       <ChatGPT title={title} content={content} />
-      <Stories heading={'strories'}/>
       <Footer />
       <Bottom />
       <Footer2 />
