@@ -1,0 +1,68 @@
+.bottom{
+    position: relative;
+    top: 190px;
+    left: 50px;
+}
+.bottom .first{
+    left: 80px;
+    display: flex;
+    flex-direction: column;
+    line-height: 31px;
+font-size: 14px
+}
+
+.bottom .second{
+    display: flex;
+    flex-direction: column;
+    line-height: 31px;
+font-size: 14px
+}
+
+.bottom .third{
+    display: flex;
+    flex-direction: column;
+    line-height: 31px;
+font-size: 14px
+}
+.bottom .fourth{
+    display: flex;
+    flex-direction: column;
+    line-height: 31px;
+font-size: 14px
+}
+.bottom .fifth{
+    display: flex;
+    flex-direction: column;
+    line-height: 31px;
+font-size: 14px
+}
+
+.bottom-2{
+    position: relative;
+    top: 230px;
+    display: flex;
+    flex-direction: column;
+    line-height: 31px;
+font-size: 14px
+}
+
+.bottom-2 .first{
+    padding-left: 60px;
+}
+.bottom-2 .second{
+    position: absolute;
+    bottom: 223px;
+    left: 415px;
+
+}
+.bottom-2 .third{
+    position: relative;
+    right: 102px;
+}
+
+.bottom-2 .fourth{
+    position: relative;
+    left: 405px;
+    bottom: 155px;
+}
+
