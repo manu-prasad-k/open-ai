@@ -1,0 +1,39 @@
+
+
+
+.container .footer-container{
+   text-align: center;
+    padding: 10px;
+    background-color: whitesmoke;
+    max-width: 94%;
+    position: relative;
+    left: 49px;
+    top: 70px;
+    border-radius: 10px;
+    font-family: 'Arial', sans-serif;
+    height: 360px;
+  
+
+}
+
+.container .footer-container .title{
+    padding-top: 90px;
+    padding-right: 88px;
+  
+     
+}
+.container .footer-container h3{
+    font-size: 34px; 
+    color: black;
+}
+.container .button{
+    background-color:  #333;
+    border-radius: 20px;
+    font-size: 20px;
+ 
+ 
+}
+.container-button{
+    padding-top: 22px;
+
+}
